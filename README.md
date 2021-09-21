@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on new ideas and projects based on Deep Learning
+- 💞️ I’m looking to collaborate on new ideas and projects based on Machine Learning & Deep Learning
 - 📫 https://www.linkedin.com/in/deepak-soni-400561166/
 
 <!---
